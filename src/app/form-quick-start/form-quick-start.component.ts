@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { RegisterModel } from './model/register-model';
 
 @Component({
   selector: 'form-quick-start',
@@ -6,14 +7,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./form-quick-start.component.scss']
 })
 export class FormQuickStartComponent implements OnInit {
-  public userName:string;
+  public regModel:RegisterModel=new RegisterModel();
 
   constructor() { }
 
   ngOnInit() {
-  }
-
-  public userNameChange(event):void{
-    this.userName=event.target.value;
   }
 }
