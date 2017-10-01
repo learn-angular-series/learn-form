@@ -12,7 +12,7 @@
 
 动态表单：请参见NiceFish里面的user-profile.component.ts组件。
 
-### 备注
+## 备注
 learn-***是一个系列教学项目用的实例源代码，全部链接请点这里：
 
 - https://gitee.com/mumu-osc/learn-component
@@ -20,8 +20,10 @@ learn-***是一个系列教学项目用的实例源代码，全部链接请点�
 - https://gitee.com/mumu-osc/learn-router
 - https://gitee.com/mumu-osc/learn-module
 - https://gitee.com/mumu-osc/learn-form
+- https://gitee.com/mumu-osc/learn-service
 - https://gitee.com/mumu-osc/learn-test
 - https://gitee.com/mumu-osc/learn-webpack
+- https://github.com/damoqiongqiu/angular-seo
 
 如果你需要一个更复杂、更完整一点的例子，请试试NiceFish：https://gitee.com/mumu-osc/NiceFish
 
